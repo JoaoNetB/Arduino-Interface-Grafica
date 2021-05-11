@@ -1,0 +1,10 @@
+C:\Users\netoj\Desktop\Projeto Acender e apagar led arduino\ProgramaLEDs\ProgramaLEDs\bin\Debug\ProgramaLEDs.exe.config
+C:\Users\netoj\Desktop\Projeto Acender e apagar led arduino\ProgramaLEDs\ProgramaLEDs\bin\Debug\ProgramaLEDs.exe
+C:\Users\netoj\Desktop\Projeto Acender e apagar led arduino\ProgramaLEDs\ProgramaLEDs\bin\Debug\ProgramaLEDs.pdb
+C:\Users\netoj\Desktop\Projeto Acender e apagar led arduino\ProgramaLEDs\ProgramaLEDs\obj\Debug\ProgramaLEDs.csprojAssemblyReference.cache
+C:\Users\netoj\Desktop\Projeto Acender e apagar led arduino\ProgramaLEDs\ProgramaLEDs\obj\Debug\ProgramaLEDs.Form1.resources
+C:\Users\netoj\Desktop\Projeto Acender e apagar led arduino\ProgramaLEDs\ProgramaLEDs\obj\Debug\ProgramaLEDs.Properties.Resources.resources
+C:\Users\netoj\Desktop\Projeto Acender e apagar led arduino\ProgramaLEDs\ProgramaLEDs\obj\Debug\ProgramaLEDs.csproj.GenerateResource.cache
+C:\Users\netoj\Desktop\Projeto Acender e apagar led arduino\ProgramaLEDs\ProgramaLEDs\obj\Debug\ProgramaLEDs.csproj.CoreCompileInputs.cache
+C:\Users\netoj\Desktop\Projeto Acender e apagar led arduino\ProgramaLEDs\ProgramaLEDs\obj\Debug\ProgramaLEDs.exe
+C:\Users\netoj\Desktop\Projeto Acender e apagar led arduino\ProgramaLEDs\ProgramaLEDs\obj\Debug\ProgramaLEDs.pdb
